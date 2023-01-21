@@ -9,8 +9,8 @@ I am a **Deep Learning** Enthusiast. I'm in my 2nd year, pursuing Electronics an
 ## Reach Me At
 Email ✉️: suryanshsinha01@gmail.com
 
-[<img src="img/linkedin.svg" width="28">](https://www.linkedin.com/in/suryanshsinha/)
-[<img src="img/twitter.svg" width="28">](https://twitter.com/suryanshstwt/) [<img src="img/instagram.svg" width="28">](https://instagram.com/suryansh.apk)
+[<img src="imgs/linkedin.svg" width="28">](https://www.linkedin.com/in/suryanshsinha/)
+[<img src="imgs/twitter.svg" width="28">](https://twitter.com/suryanshstwt/) [<img src="imgs/instagram.svg" width="28">](https://instagram.com/suryansh.apk)
 
 ## My Github Stats -
 
