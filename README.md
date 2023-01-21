@@ -22,7 +22,7 @@ Email ✉️: suryanshsinha01@gmail.com
 
 
 <!-- <img align=left width=47% src="https://github-readme-stats.vercel.app/api?username=suryansh-sinha&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> -->
-<img align=left width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-sinha&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-sinha&layout=compact"/> -->
 
 
 <!--
