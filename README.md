@@ -20,6 +20,9 @@ Email ✉️: suryanshsinha01@gmail.com
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=suryansh-sinha&theme=synthwave)](https://git.io/streak-stats)
+
 
 <!-- <img align=left width=47% src="https://github-readme-stats.vercel.app/api?username=suryansh-sinha&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-sinha&layout=compact"/> -->
