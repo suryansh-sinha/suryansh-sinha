@@ -1,7 +1,7 @@
 # Suryansh Sinha
 ### Hi there 👋
 
-I am a **Deep Learning** Enthusiast. I'm in my 3rd year, pursuing Electronics and Communications Engineering with a specialization in Data Science from [SRM Institute of Science and Technology, Kattankulathur](https://www.srmist.edu.in/)
+I am a **Computer Vision** Researcher. I'm in my 3rd year, pursuing Electronics and Communications Engineering with a specialization in Data Science from [SRM Institute of Science and Technology, Kattankulathur](https://www.srmist.edu.in/)
 
 - 🔭 I’m currently working on implementing GANs and research around it.
 - 🌱 I’m currently learning PyTorch
