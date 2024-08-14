@@ -10,7 +10,7 @@ I am a **Computer Vision** Researcher. I'm in my 4th year, pursuing Electronics 
 Email ✉️: suryanshsinha01@gmail.com
 
 [<img src="imgs/linkedin.svg" width="28">](https://www.linkedin.com/in/suryanshsinha/)
-[<img src="imgs/twitter.svg" width="28">](https://twitter.com/suryanshstwt/) [<img src="imgs/instagram.svg" width="28">](https://instagram.com/suryansh.apk)
+[<img src="imgs/twitter.svg" width="28">](https://twitter.com/suryanshstwt/)
 
 ## Tech I Have Worked With -
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
