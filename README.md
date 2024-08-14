@@ -1,10 +1,10 @@
 # Suryansh Sinha
 ### Hi there 👋
 
-I am a **Computer Vision** Researcher. I'm in my 3rd year, pursuing Electronics and Communications Engineering with a specialization in Data Science from [SRM Institute of Science and Technology, Kattankulathur](https://www.srmist.edu.in/)
+I am a **Computer Vision** Researcher. I'm in my 4th year, pursuing Electronics and Communications Engineering with a specialization in Data Science from [SRM Institute of Science and Technology, Kattankulathur](https://www.srmist.edu.in/)
 
-- 🔭 I’m currently working on implementing GANs and research around it.
-- 🌱 I’m currently learning PyTorch
+- 🔭 I’m currently working on implementing multi-modal models like CLIP, Segment Anything Model and research around it.
+- 🌱 I’m open to collaborating on Computer Vision based projects.
 
 ## Reach Me At
 Email ✉️: suryanshsinha01@gmail.com
