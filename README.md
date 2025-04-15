@@ -1,10 +1,12 @@
 # Suryansh Sinha
 ### Hi there 👋
 
-I am a **Computer Vision** Researcher. I'm in my 4th year, pursuing Electronics and Communications Engineering with a specialization in Data Science from [SRM Institute of Science and Technology, Kattankulathur](https://www.srmist.edu.in/)
+**Computer Vision** Researcher. I'm a final year undergrad student, pursuing Electronics and Communications Engineering with a specialization in Data Science from [SRM Institute of Science and Technology, Kattankulathur](https://www.srmist.edu.in/)
 
-- 🔭 I’m currently working on implementing multi-modal models like CLIP, Segment Anything Model and research around it.
-- 🌱 I’m open to collaborating on Computer Vision based projects.
+
+- 🔭 I’m currently working on getting comfortable with MLOps tools like DVC, MLFlow, Docker, Kubernetes, AWS S3 etc.
+- 🌱 I'm currently learning about diffusion models and how to use them in real world scenarios.
+- 👯 I’m looking to collaborate on GenAI projects in computer vision.
 
 ## Reach Me At
 Email ✉️: suryanshsinha01@gmail.com
