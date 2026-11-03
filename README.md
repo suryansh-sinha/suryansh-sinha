@@ -1,46 +1,59 @@
-# Suryansh Sinha
-### Hi there 👋
+# Hi, I'm Suryansh 👋
 
-**Computer Vision** Researcher. I'm a final year undergrad student, pursuing Electronics and Communications Engineering with a specialization in Data Science from [SRM Institute of Science and Technology, Kattankulathur](https://www.srmist.edu.in/)
+**Computer Vision engineer** focused on object detection, model deployment, and generative models.
+B.Tech in Electronics & Communication Engineering (Data Science specialization), [SRMIST](https://www.srmist.edu.in/), 2025.
 
+I like building things from scratch to understand them, then measuring them honestly.
 
-- 🔭 I’m currently working on getting comfortable with MLOps tools like DVC, MLFlow, Docker, Kubernetes, AWS S3 etc.
-- 🌱 I'm currently learning about diffusion models and how to use them in real world scenarios.
-- 👯 I’m looking to collaborate on GenAI projects in computer vision.
+📍 Open to junior Computer Vision / AI engineer roles (Bangalore, Gurugram, Delhi, or remote)
 
-## Reach Me At
-Email ✉️: suryanshsinha01@gmail.com
+---
 
-[<img src="imgs/linkedin.svg" width="28">](https://www.linkedin.com/in/suryanshsinha/)
-[<img src="imgs/twitter.svg" width="28">](https://twitter.com/suryanshstwt/)
+## Featured projects
 
-## Tech I Have Worked With -
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🚁 [Drone Object Detection: YOLOv8n vs YOLO26n](https://github.com/suryansh-sinha/YOLO-Detection)
+Trained and benchmarked two nano detectors on VisDrone (small-object aerial detection) at 640 and 960 px, then exported to ONNX and TensorRT and re-measured accuracy after every conversion.
 
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=suryansh-sinha&theme=synthwave)](https://git.io/streak-stats)
+- Higher resolution improved test mAP50-95 by about 5 points, reaching 20.2 (YOLOv8n) and 19.3 (YOLO26n).
+- TensorRT FP16 cut per-image latency 2.1-3.3x versus PyTorch (0.73-1.29 ms at batch 1 on an RTX 5070 Ti), with at most ~0.2 mAP points lost in export.
+- YOLO26n's NMS-free head cut postprocessing from 0.33 to 0.07 ms, making it 11-17% faster in TensorRT at a cost of 0.4-0.9 mAP points.
 
+`Python` `PyTorch` `Ultralytics` `ONNX Runtime` `TensorRT` `Weights & Biases`
 
-<!-- <img align=left width=47% src="https://github-readme-stats.vercel.app/api?username=suryansh-sinha&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-sinha&layout=compact"/> -->
+### 🔍 [DDPM From Scratch: Generation and Anomaly Detection](https://github.com/suryansh-sinha/YOUR-DDPM-REPO)
+A Denoising Diffusion Probabilistic Model written in PyTorch without diffusion libraries (U-Net with residual blocks, GroupNorm and self-attention, noise scheduler, EMA ancestral sampler), trained on 213 defect-free MVTec AD transistor images.
 
+- Turned it into an unsupervised defect detector using noise-denoise reconstruction and a 1-SSIM anomaly map: **0.94 image-level AUROC** and 0.77 pixel-level AUROC on the MVTec test set.
+- Evaluated across noise levels, scoring methods, and defect types, and documented the limitations (test-set tuning, single seed, no baseline).
+- Checked that the model was not memorizing its training data.
 
-<!--
-**suryansh-sinha/suryansh-sinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Python` `PyTorch` `scikit-learn` `Weights & Biases`
 
-Here are some ideas to get you started:
+### 🧩 [CLIP Image Search](https://github.com/suryansh-sinha/YOUR-CLIP-REPO)
+Zero-shot text-to-image search with CLIP (ViT-B/32): embed queries and images, rank by similarity, visualize the top matches.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## What I'm up to
+
+- 🎯 Looking for a junior Computer Vision / AI engineer role where I can ship detection and deployment work
+- 🌱 Studying 3D computer vision on the side
+- 💬 Happy to talk about object detection, TensorRT/ONNX deployment, diffusion models, and anomaly detection
+
+## Reach me
+
+📧 [suryanshsinha01@gmail.com](mailto:suryanshsinha01@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/suryanshsinha/)
