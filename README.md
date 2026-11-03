@@ -5,7 +5,7 @@ B.Tech in Electronics & Communication Engineering (Data Science specialization),
 
 I like building things from scratch to understand them, then measuring them honestly.
 
-📍 Open to junior Computer Vision / AI engineer roles (Bangalore, Gurugram, Delhi, or remote)
+📍 Open to Computer Vision / AI engineer roles (Bangalore, Gurugram, Delhi, or remote)
 
 ---
 
@@ -28,9 +28,6 @@ A Denoising Diffusion Probabilistic Model written in PyTorch without diffusion l
 - Checked that the model was not memorizing its training data.
 
 `Python` `PyTorch` `scikit-learn` `Weights & Biases`
-
-### 🧩 [CLIP Image Search](https://github.com/suryansh-sinha/YOUR-CLIP-REPO)
-Zero-shot text-to-image search with CLIP (ViT-B/32): embed queries and images, rank by similarity, visualize the top matches.
 
 ---
 
