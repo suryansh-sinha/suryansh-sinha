@@ -11,7 +11,7 @@ I like building things from scratch to understand them, then measuring them hone
 
 ## Featured projects
 
-### 🚁 [Drone Object Detection: YOLOv8n vs YOLO26n](https://github.com/suryansh-sinha/YOLO-Detection)
+### 🚁 [Drone Object Detection: YOLOv8n vs YOLO26n](https://github.com/suryansh-sinha/YOLO-VisDrone)
 Trained and benchmarked two nano detectors on VisDrone (small-object aerial detection) at 640 and 960 px, then exported to ONNX and TensorRT and re-measured accuracy after every conversion.
 
 - Higher resolution improved test mAP50-95 by about 5 points, reaching 20.2 (YOLOv8n) and 19.3 (YOLO26n).
@@ -20,7 +20,7 @@ Trained and benchmarked two nano detectors on VisDrone (small-object aerial dete
 
 `Python` `PyTorch` `Ultralytics` `ONNX Runtime` `TensorRT` `Weights & Biases`
 
-### 🔍 [DDPM From Scratch: Generation and Anomaly Detection](https://github.com/suryansh-sinha/YOUR-DDPM-REPO)
+### 🔍 [DDPM From Scratch: Generation and Anomaly Detection](https://github.com/suryansh-sinha/ddpm-transistor)
 A Denoising Diffusion Probabilistic Model written in PyTorch without diffusion libraries (U-Net with residual blocks, GroupNorm and self-attention, noise scheduler, EMA ancestral sampler), trained on 213 defect-free MVTec AD transistor images.
 
 - Turned it into an unsupervised defect detector using noise-denoise reconstruction and a 1-SSIM anomaly map: **0.94 image-level AUROC** and 0.77 pixel-level AUROC on the MVTec test set.
@@ -34,7 +34,6 @@ A Denoising Diffusion Probabilistic Model written in PyTorch without diffusion l
 ## Tech
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
